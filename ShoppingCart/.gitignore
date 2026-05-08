@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+.claude/
+.idea/
+.vscode/
+.sixth/
+ShoppingCart/.bloop/
+ShoppingCart/.claude/
+ShoppingCart/.metals/
+ShoppingCart/.mvn/
+
